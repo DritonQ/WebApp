@@ -15,7 +15,7 @@ const App = () => {
 
   useEffect(() => {
     getRecipes();
-    console.log('let say we are fetching data');
+    console.log('let say we are fetching data to you');
   }, [query]);
 
   const getRecipes = async () => {
