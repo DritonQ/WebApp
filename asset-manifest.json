@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DritonQ/WebApp/static/css/main.c305e3ff.chunk.css",
-    "main.js": "/DritonQ/WebApp/static/js/main.666dc5c8.chunk.js",
-    "main.js.map": "/DritonQ/WebApp/static/js/main.666dc5c8.chunk.js.map",
-    "runtime~main.js": "/DritonQ/WebApp/static/js/runtime~main.e55389ae.js",
-    "runtime~main.js.map": "/DritonQ/WebApp/static/js/runtime~main.e55389ae.js.map",
-    "static/js/2.881939cd.chunk.js": "/DritonQ/WebApp/static/js/2.881939cd.chunk.js",
-    "static/js/2.881939cd.chunk.js.map": "/DritonQ/WebApp/static/js/2.881939cd.chunk.js.map",
-    "index.html": "/DritonQ/WebApp/index.html",
-    "precache-manifest.20e9a25b8bd331038db134668d1a8a38.js": "/DritonQ/WebApp/precache-manifest.20e9a25b8bd331038db134668d1a8a38.js",
-    "service-worker.js": "/DritonQ/WebApp/service-worker.js",
-    "static/css/main.c305e3ff.chunk.css.map": "/DritonQ/WebApp/static/css/main.c305e3ff.chunk.css.map"
+    "main.css": "/WebApp/static/css/main.c305e3ff.chunk.css",
+    "main.js": "/WebApp/static/js/main.7cc5a49b.chunk.js",
+    "main.js.map": "/WebApp/static/js/main.7cc5a49b.chunk.js.map",
+    "runtime~main.js": "/WebApp/static/js/runtime~main.a69287ae.js",
+    "runtime~main.js.map": "/WebApp/static/js/runtime~main.a69287ae.js.map",
+    "static/js/2.881939cd.chunk.js": "/WebApp/static/js/2.881939cd.chunk.js",
+    "static/js/2.881939cd.chunk.js.map": "/WebApp/static/js/2.881939cd.chunk.js.map",
+    "index.html": "/WebApp/index.html",
+    "precache-manifest.66d3e20029ea15e859ce3c23a3f3008f.js": "/WebApp/precache-manifest.66d3e20029ea15e859ce3c23a3f3008f.js",
+    "service-worker.js": "/WebApp/service-worker.js",
+    "static/css/main.c305e3ff.chunk.css.map": "/WebApp/static/css/main.c305e3ff.chunk.css.map"
   }
 }
